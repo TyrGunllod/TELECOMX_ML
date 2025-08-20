@@ -1,8 +1,3 @@
-# Caminho do arquivo README
-readme_file = "/content/tmp/README.md"
-
-# Conteúdo do README
-readme_content = """
 # 📊 Análise de Churn - Projeto TelecomX
 
 ## 🔹 Objetivo
